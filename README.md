@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=xu-jiahong&color=177CB0&style=plastic&label=Profile+Views&base=200&abbreviated=true)
+
+
+
